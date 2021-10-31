@@ -1,3 +1,3 @@
 module.exports = {
-  babelrcRoots: [__dirname, __dirname + '/src/core']
+  babelrcRoots: [__dirname],
 };
